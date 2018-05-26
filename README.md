@@ -1,2 +1,5 @@
 # laravel-gitlab-ci
-Laravel last version with integrate gitlab-ci
+Laravel configured for Continuous Test, Intégration, Deployment
+- Laravel
+- Codeception
+- Gitlab
