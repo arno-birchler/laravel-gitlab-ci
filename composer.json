@@ -1,5 +1,5 @@
 {
-    "name": "arno-birchler/laravel",
+    "name": "arno-birchler/laravel-gitlab-ci",
     "description": "The Laravel Framework with Gitlab CI & Codeception.",
     "keywords": ["framework", "laravel", "gitlab", "ci", "codeception"],
     "license": "MIT",
